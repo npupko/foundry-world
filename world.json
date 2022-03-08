@@ -1,0 +1,151 @@
+{
+  "name": "rudniki-falvendera",
+  "title": "Проклятие Страда",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "DDB Spells",
+      "name": "ddb-rudniki-falvendera-spells",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-rudniki-falvendera-spells.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\random\\AppData\\Local\\FoundryVTT\\Data\\worlds\\rudniki-falvendera\\packs\\ddb-rudniki-falvendera-spells.db"
+    },
+    {
+      "label": "DDB Items",
+      "name": "ddb-rudniki-falvendera-items",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-rudniki-falvendera-items.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\random\\AppData\\Local\\FoundryVTT\\Data\\worlds\\rudniki-falvendera\\packs\\ddb-rudniki-falvendera-items.db"
+    },
+    {
+      "label": "DDB Monsters",
+      "name": "ddb-rudniki-falvendera-monsters",
+      "package": "world",
+      "type": "Actor",
+      "path": "packs/ddb-rudniki-falvendera-monsters.db",
+      "system": "dnd5e",
+      "entity": "Actor",
+      "private": false,
+      "absPath": "C:\\Users\\random\\AppData\\Local\\FoundryVTT\\Data\\worlds\\rudniki-falvendera\\packs\\ddb-rudniki-falvendera-monsters.db"
+    },
+    {
+      "label": "DDB Racial Traits",
+      "name": "ddb-rudniki-falvendera-racial-traits",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-rudniki-falvendera-racial-traits.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\random\\AppData\\Local\\FoundryVTT\\Data\\worlds\\rudniki-falvendera\\packs\\ddb-rudniki-falvendera-racial-traits.db"
+    },
+    {
+      "label": "DDB Tables",
+      "name": "ddb-rudniki-falvendera-tables",
+      "package": "world",
+      "type": "RollTable",
+      "path": "packs/ddb-rudniki-falvendera-tables.db",
+      "system": "dnd5e",
+      "entity": "RollTable",
+      "private": false
+    },
+    {
+      "label": "DDB Feats",
+      "name": "ddb-rudniki-falvendera-feats",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-rudniki-falvendera-feats.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\random\\AppData\\Local\\FoundryVTT\\Data\\worlds\\rudniki-falvendera\\packs\\ddb-rudniki-falvendera-feats.db"
+    },
+    {
+      "label": "DDB Class Features",
+      "name": "ddb-rudniki-falvendera-class-features",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-rudniki-falvendera-class-features.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\random\\AppData\\Local\\FoundryVTT\\Data\\worlds\\rudniki-falvendera\\packs\\ddb-rudniki-falvendera-class-features.db"
+    },
+    {
+      "label": "DDB Classes",
+      "name": "ddb-rudniki-falvendera-classes",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-rudniki-falvendera-classes.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\random\\AppData\\Local\\FoundryVTT\\Data\\worlds\\rudniki-falvendera\\packs\\ddb-rudniki-falvendera-classes.db"
+    },
+    {
+      "label": "DDB Races",
+      "name": "ddb-rudniki-falvendera-races",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-rudniki-falvendera-races.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\random\\AppData\\Local\\FoundryVTT\\Data\\worlds\\rudniki-falvendera\\packs\\ddb-rudniki-falvendera-races.db"
+    },
+    {
+      "label": "DDB Override",
+      "name": "ddb-rudniki-falvendera-override",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-rudniki-falvendera-override.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false
+    },
+    {
+      "label": "Найденные Предметы",
+      "type": "Item",
+      "name": "najdennye-predmety",
+      "path": "packs/najdennye-predmety.db",
+      "system": "dnd5e",
+      "package": "world",
+      "entity": "Item",
+      "private": false
+    },
+    {
+      "label": "Рудники Фалвендера",
+      "type": "Scene",
+      "name": "rudniki-falvendera",
+      "path": "packs/rudniki-falvendera.db",
+      "system": "dnd5e",
+      "package": "world",
+      "entity": "Scene",
+      "private": false
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "9.245",
+  "nextSession": "2022-01-03T18:00:00.000Z",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.5.6"
+}

@@ -1,0 +1,22 @@
+{"name":"Beneos Battlemaps","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"7Jos5O7A5CpGkUIW"}
+{"name":"Энкаунтеры","type":"Scene","parent":"INBZiz8379Fxdswr","sorting":"a","sort":0,"color":null,"flags":{},"_id":"AqU4MOK5xqLhbKie"}
+{"name":"Пещера морского эха","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"Dhxjyb08LuL96t7B"}
+{"_id":"DiCQZX5n39RYofMC","name":"Персонажи","type":"Actor","parent":null,"sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"EuiRGKwS0jxr76F3","name":"Отсутствующие","type":"Actor","parent":null,"sorting":"a","sort":200000,"color":null,"flags":{}}
+{"name":"Деревня Баровия","type":"Scene","parent":"LpShS8gmS8TivKYG","sorting":"a","sort":0,"color":null,"flags":{},"_id":"FyBQbGGJsVIb0NxG"}
+{"name":"Beneos","type":"Scene","parent":"LpShS8gmS8TivKYG","sorting":"a","sort":0,"color":null,"flags":{},"_id":"INBZiz8379Fxdswr"}
+{"name":"Заметки по локации","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"LmkLjxZ9g2ODiJKo"}
+{"name":"Проклятие Страда","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"LpShS8gmS8TivKYG"}
+{"name":"Общее","type":"Scene","parent":"LpShS8gmS8TivKYG","sorting":"a","sort":0,"color":null,"flags":{},"_id":"SIW9nGqXZxFUHRUj"}
+{"name":"Beneos Battlemaps Scenery 4K","type":"Scene","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"Se2V87WLSQsiXGbm"}
+{"_id":"TBuffcxLg2mGEk05","name":"Creatures","type":"Actor","parent":null,"sorting":"a","sort":300000,"flags":{}}
+{"_id":"UNdguGiJ6h3qgJIx","name":"Curse of Strahd","type":"Actor","parent":null,"sorting":"a","sort":400000,"color":null,"flags":{}}
+{"name":"Старая Костедробилка","type":"Scene","parent":"LpShS8gmS8TivKYG","sorting":"a","sort":0,"color":null,"flags":{},"_id":"XZx6ckFt1keCh7nP"}
+{"name":"Изображения для игроков","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"Zke35cM8vWO1eOts"}
+{"name":"Замок каменной пасти","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"dlKWRwvCtMdSvIBu"}
+{"name":"Beneos Battlemaps","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"qOGZYXA3QFWGrucG"}
+{"_id":"rR6Da6rAQh1WLlLm","name":"PM","type":"Actor","parent":null,"sorting":"a","sort":500000,"color":null,"flags":{}}
+{"name":"Заметки игроков","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"rmiVT7aVqP0Rz12W"}
+{"name":"Beneos Battlemaps 4K","type":"Scene","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"s9aPrO6u5fmzexaI"}
+{"name":"Костедробилка","type":"Playlist","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"sCIJXSVsPVJKy9l1"}
+{"name":"Руины громодеревья","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"wTQu1fXkxXqw6ZaE"}
